@@ -1,8 +1,12 @@
 # **Calculator App**
 
-Calculator provides simple and other mathematical functions in a beautifully designed app.
+Calculator provides simple mathematical functions in a beautifully designed app.
 
 Perform basic calculations such as addition, subtraction, multiplication, and division
+
+# **Screenshot**
+![20230203_212659](https://user-images.githubusercontent.com/124379974/216655446-e938d7b3-48b4-4e90-8b3a-8f3be3368b1e.jpg)
+
 
 # **Installation**
 
