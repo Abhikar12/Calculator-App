@@ -4,6 +4,10 @@ Calculator provides simple and other mathematical functions in a beautifully des
 
 Perform basic calculations such as addition, subtraction, multiplication, and division
 
+# **Screenshot**
+![20230203_212659](https://user-images.githubusercontent.com/124379974/216648707-3e593cb8-02c4-45a5-ae29-a0016010a9be.jpg)
+
+
 # **Installation**
 
 Press the Fork button (top right the page) to save copy of this project on your account.
